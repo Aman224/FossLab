@@ -1,0 +1,4 @@
+git init
+git clone "whatever the repo link is"
+git config --global http.proxy http://user_name:password@proxy_ip:port
+git config --global --unset http.proxy
